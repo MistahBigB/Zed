@@ -10,7 +10,7 @@ class song(object):
             print(line)
 
 #cold is a variable list passed to the object
-cold = ["The will to rise above,"
+cold = ["The will to rise above",
         "Is tearing my insides out"]
 
 iron = song(["Raise your fist beside your brothers",
